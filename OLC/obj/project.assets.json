@@ -12555,11 +12555,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gita.sunuwar\\source\\repos\\OLC\\OLC\\OLC.csproj",
+      "projectUniqueName": "C:\\Users\\gita.sunuwar\\Desktop\\GoGithub\\OLC\\OLC\\OLC.csproj",
       "projectName": "OLC",
-      "projectPath": "C:\\Users\\gita.sunuwar\\source\\repos\\OLC\\OLC\\OLC.csproj",
+      "projectPath": "C:\\Users\\gita.sunuwar\\Desktop\\GoGithub\\OLC\\OLC\\OLC.csproj",
       "packagesPath": "C:\\Users\\gita.sunuwar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gita.sunuwar\\source\\repos\\OLC\\OLC\\obj\\",
+      "outputPath": "C:\\Users\\gita.sunuwar\\Desktop\\GoGithub\\OLC\\OLC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
